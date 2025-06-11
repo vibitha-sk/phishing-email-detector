@@ -178,4 +178,3 @@ if st.button("SCAN"):
     else:
         st.success('✅ Yay! You can go ahead. This email looks safe and legit.')
 
-#fix email body text , give margin color to the box , fix scan button just the color and the margin color do not go to hover for scan  button because it already good
