@@ -17,8 +17,11 @@ PhishNet provides students and youth with an easy-to-use tool to quickly detect 
 
 
 ### 🚀Live Demo
-[Start Scanning](https://phishing-email-detector-vb.streamlit.app/)
+[**Start Scanning**](https://phishing-email-detector-vb.streamlit.app/)
 ---
+
+
+
 
 ### Installation
 
