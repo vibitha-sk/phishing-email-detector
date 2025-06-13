@@ -16,6 +16,8 @@ PhishNet provides students and youth with an easy-to-use tool to quickly detect 
 - Educates about common social engineering techniques designed to deceive and exploit.
 
 
+### 🚀Live Demo
+[Start Scanning](https://phishing-email-detector-vb.streamlit.app/)
 ---
 
 ### Installation
